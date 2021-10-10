@@ -1,5 +1,9 @@
 # React Starter Kit in TypeScript
 
+[TypeScript](https://www.typescriptlang.org/) と [React](https://ja.reactjs.org/) の学習用リポジトリ
+
+- [ハンズオンで学ぶ TypeScript - JavaScript エンジニアのための TypeScript徹底入門](https://www.udemy.com/course/ts-for-js-developers/)
+
 ## Node のインストール方法
 
 本アプリケーションは [Node.js](https://nodejs.org/) を前提としています。macOS の場合だと以下の手順で導入できます。Node のバージョンは`.node-version`を参照し、同じものを使用してください。
